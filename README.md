@@ -7,8 +7,6 @@
 
 :computer: Full stack software engineer.
 
-🖖 𝗩𝘂𝗲.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 
-
 :writing_hand: I enjoy all aspects of development, that being Front end or Back end and also using a varity of AWS cloud tools to coside these. 
 
 ## 𝗦𝘁𝗮𝘁𝘀
