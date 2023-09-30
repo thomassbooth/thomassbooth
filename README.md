@@ -9,7 +9,6 @@
 
 :writing_hand: I enjoy all aspects of development, that being Front end or Back end and also using a varity of AWS cloud tools to coside these. 
 
-Primarily focused on using NextJS and TS right now.
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Toms github stats](https://github-readme-stats.vercel.app/api?username=thomassbooth&show_icons=true&theme=dracula)
