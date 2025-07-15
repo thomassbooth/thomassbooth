@@ -5,9 +5,11 @@
 [![](https://img.shields.io/badge/-@thomassbooth-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomas-booth-08baa6151/)
 
 
-:computer: Full stack software engineer.
+:computer: Machine learning engineer forced to write in Python with a special love for Golang.
 
-:writing_hand: I enjoy all aspects of development, that being Front end or Back end and also using a varity of AWS cloud tools to coside these. 
+Currently working on a kubernetes cluster management system for managing ML Workloads/experiments, Benchmarking, Model deployment/Inferencing, Finetuning and more.
+
+:writing_hand: Mathematics is cool, anyone who says otherwise is wrong :)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
