@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/-@thomassbooth-%23181717?style=flat-square&logo=github)](https://github.com/thomassbooth)
 [![](https://img.shields.io/badge/-@thomassbooth-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomas-booth-08baa6151/)
 
+I predominantly upload my learning here and keep my projects private
 
 :computer: Machine learning engineer forced to write in Python with a special love for Golang.
 
